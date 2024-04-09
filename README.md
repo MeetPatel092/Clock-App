@@ -1,5 +1,7 @@
-<<<<<<< HEAD
 ## *over view the app use fo a video*
+
+https://github.com/MeetPatel092/Clock-App/assets/149999890/b8320e12-a806-4426-8a27-0d5d1832bb1f
+
 
 
 # Alarm Clock
@@ -28,8 +30,7 @@
 
 ## *Screen Short*
 =======
-
-https://github.com/MeetPatel092/Clock-App/assets/149999890/05afe03d-3de9-47e6-903f-59f0f352003f
+![Artboard 1](https://github.com/MeetPatel092/Clock-App/assets/149999890/074cba41-707b-49c9-bc33-ce28285a2bba)
 
 # alarm_clock
 
